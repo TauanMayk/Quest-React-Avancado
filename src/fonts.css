@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'font-pokemon';
+    src: url(../src/font/PokemonGb-RAeo.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "game retro";
+    src: url(../src/font/ARCADECLASSIC.TTF) format('truetype');
+}
+
+@font-face {
+    font-family: "font 8 bits";
+    src: url(../src/font/ByteBounce.ttf) format('truetype');
+}
