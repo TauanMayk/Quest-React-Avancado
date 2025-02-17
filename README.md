@@ -1,8 +1,20 @@
-# React + Vite
+# Yu-Gi-Oh | Jo-ken-po Edition
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
 
-Currently, two official plugins are available:
+conceitos abordados:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Aplicação em Single Page Application
+- Funções limpas
+- Organização de código
+- 
+
+<h2>Descrição:</h2>
+<p>O projeto é de uma pokedex bem simples onde aparece 10 pokemons inicias, podendo ser colocado mais deles se desejar</p>
+
+<h3>Funcionalidades</h3>
+### 
+
+## Ferramentas
+<p>HTML, CSS, JS, React e Vite</p>
+
