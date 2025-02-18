@@ -15,6 +15,7 @@ return (
     </div>
     <main className="pokedex-container">
     <div className="">
+    <button className='pokedex-button-2'></button>
       <ImagePokemon />
       <button className='pokedex-button'></button>
       <img src="../src/assets/628181-200.png" alt="button-pokedex" className='pokedex-arrows'/>
