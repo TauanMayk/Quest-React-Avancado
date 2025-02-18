@@ -19,7 +19,10 @@
 
 <h4>Passo a Passo</h4>
 <hr>
-- Abrir a página com Vscode
-- Rolar até em baixo para ver os nomes, movimentos e types dos pokemons
-- Apertar o botão "Carregar mais Pokemons" para mostrar mais pokemons
-- Clicar no botão de "Power" para mudar o tema de claro para escuro 
+1. Abrir a página com Vscode
+
+2. Rolar até em baixo para ver os nomes, movimentos e types dos pokemons
+
+3. Apertar o botão "Carregar mais Pokemons" para mostrar mais pokemons
+
+4. Clicar no botão de "Power" para mudar o tema de claro para escuro 
