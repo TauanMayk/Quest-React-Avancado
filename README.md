@@ -17,5 +17,9 @@
 ## Decisões 
 - O projeto apresenta varios pokemons de uma vez só e em baixo mostras os nomes, habilidades e etc. fiz assim porque achei mais facil de estilizar e mostras os pokemons na tela, inicialmente eu tinha feito uma janela para mostrar apenas 1 pokemon por vez, pórem não deu certo já que seria dificil mostras as habilidades e moves de apenas 1 pokemon de cada vez.
 
--- Passo a Passo
+<h4>Passo a Passo</h4>
 <hr>
+- Abrir a página com Vscode
+- Rolar até em baixo para ver os nomes, movimentos e types dos pokemons
+- Apertar o botão "Carregar mais Pokemons" para mostrar mais pokemons
+- Clicar no botão de "Power" para mudar o tema de claro para escuro 
