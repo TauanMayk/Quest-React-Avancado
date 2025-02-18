@@ -10,5 +10,12 @@
 <h3>Funcionalidades</h3>
 - Botão para mostrar os pokemons, listas de moves, abilities e types dos pokemons, botão de Theme Toggler para deixar a pagina em claro e escuro
 
-## Ferramentas
+## Ferramentas Utilizadas
 <p>HTML, CSS, JS, React e Vite</p>
+<span>estas foram escolhidas por serem necessarias na Quest e para conseguir usar varios components em apenas um app</span>
+
+## Decisões 
+- O projeto apresenta varios pokemons de uma vez só e em baixo mostras os nomes, habilidades e etc. fiz assim porque achei mais facil de estilizar e mostras os pokemons na tela, inicialmente eu tinha feito uma janela para mostrar apenas 1 pokemon por vez, pórem não deu certo já que seria dificil mostras as habilidades e moves de apenas 1 pokemon de cada vez.
+
+-- Passo a Passo
+<hr>
